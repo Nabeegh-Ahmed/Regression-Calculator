@@ -8,5 +8,8 @@ A Linear Regression Calculator built using numpy, Scikit-Learn and GUI developed
 <li>Put the exact same X and Y labels as in your CSV file.</li>
 <li>Click Calculate</li>
 <li>To predict a value, enter the value in the bottom input box and click predict.</li>
+</ol>
+
+# How it looks?
 
 <img src="https://github.com/Nabeegh-Ahmed/Regression-Calculator/blob/master/calculator.PNG">
