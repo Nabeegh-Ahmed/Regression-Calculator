@@ -9,3 +9,4 @@ A Linear Regression Calculator built using numpy, Scikit-Learn and GUI developed
 <li>Click Calculate</li>
 <li>To predict a value, enter the value in the bottom input box and click predict.</li>
 
+<img src="https://github.com/Nabeegh-Ahmed/Regression-Calculator/blob/master/calculator.PNG">
